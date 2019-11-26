@@ -6,6 +6,7 @@ public class testa_a
 	{
 		// TODO Auto-generated method stub
 		System.out.print("A");
+		System.out.print("A-1");
 	}
 
 
